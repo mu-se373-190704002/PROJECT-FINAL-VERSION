@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         heightImage: 290.14,
         imageUrl: 'assets/illustration1_1.png',
         title: 'Introducing Plants',
-        subTitle: 'Let\'s get acquainted with\nplants you don\'gİNGERt know!',
+        subTitle: 'Let\'s get acquainted with\nplants you don\'t know!',
         isBullOne: true,
         isBullTwo: false,
         isBullThree: false,
